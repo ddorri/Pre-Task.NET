@@ -1,0 +1,16 @@
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\Pre-Task.exe
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\Pre-Task.deps.json
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\Pre-Task.runtimeconfig.json
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\Pre-Task.runtimeconfig.dev.json
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\Pre-Task.dll
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\ref\Pre-Task.dll
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\bin\Debug\net5.0\Pre-Task.pdb
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.csprojAssemblyReference.cache
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.AssemblyInfoInputs.cache
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.AssemblyInfo.cs
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.csproj.CoreCompileInputs.cache
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.dll
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\ref\Pre-Task.dll
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.pdb
+D:\C# and UNITY\MyProjects\Pre-Task\Pre-Task\Pre-Task\obj\Debug\net5.0\Pre-Task.genruntimeconfig.cache
